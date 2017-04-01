@@ -1,0 +1,2 @@
+/// fireRate
+fire = true;
