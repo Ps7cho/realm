@@ -1,2 +1,2 @@
 /// fireRate
-fire = true;
+global.fire = true;

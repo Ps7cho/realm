@@ -25,10 +25,10 @@ if current_state == states.idle{
 }
 
 
-if  mouse_check_button(mb_right)&& fire == true{
+if  mouse_check_button(mb_right)&& global.fire == true{
 	instance_create_layer(x, y, "Instances_1", objAxe);
 	alarm[0] = fireRate
-	fire = false
+	global.fire = false
 	}
 
 if ver == -1 && hor == 0 {

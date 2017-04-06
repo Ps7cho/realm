@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "28270066-761d-4311-bb36-2db000fac4c1",
-            "Value": {
-                "id": "19394193-03f4-47dd-97bf-a11863cae9e9",
-                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "30e247cb-ddb3-4e10-9373-30a26c3a1b46",
             "Value": {
                 "id": "4e4ddb34-90a9-45c2-ad7c-6d8e22b98885",
@@ -279,11 +271,27 @@
             }
         },
         {
+            "Key": "a8bdf901-630b-464b-827f-1d6609da98f0",
+            "Value": {
+                "id": "7afe2f03-2e83-46fc-a213-21e850c3c62f",
+                "resourcePath": "objects\\object_Character_1\\object_Character_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "571f9a53-1393-4454-b3d8-09d6f9b0fab4",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a99ca76f-8b3e-4d3f-90f0-d7f2dd27c243",
+            "Value": {
+                "id": "76ae190a-053c-4681-85bb-1c10e26e9d03",
+                "resourcePath": "scripts\\throwAxe\\throwAxe.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -359,14 +367,6 @@
             }
         },
         {
-            "Key": "c33fd2d2-6bb3-4101-9b8c-2b5052ff14f6",
-            "Value": {
-                "id": "0b248bba-b3d9-4c39-b158-d7583e9573f1",
-                "resourcePath": "objects\\object_5\\object_5.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b1ac9246-02f6-419b-b928-49b81a083a47",
@@ -380,6 +380,14 @@
                 "id": "6ef6c2f0-15ee-4966-8cf4-e3229161e2bb",
                 "resourcePath": "views\\cccf308e-c0f2-44fd-880d-70454c175c8a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cd3b52cc-a83e-4c5b-9458-1905bd8ab1c8",
+            "Value": {
+                "id": "89d71093-78cf-40ab-8062-3e212290fb92",
+                "resourcePath": "objects\\objAxe_1\\objAxe_1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -431,14 +439,6 @@
             }
         },
         {
-            "Key": "f0a709ff-c396-48ed-98a8-c2524ff9d14a",
-            "Value": {
-                "id": "64becdbe-986b-47a1-9375-89d9ca2b3cf6",
-                "resourcePath": "objects\\obj_door\\obj_door.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "fd822180-5eef-44b1-ae42-f4c054a8b018",
@@ -465,7 +465,8 @@
     ],
     "script_order": [
         "b399a6ab-8e54-48c6-bcca-2ead012f5032",
-        "e82fbbbd-adfc-4d64-b2ff-dbed5c6d6b3a"
+        "e82fbbbd-adfc-4d64-b2ff-dbed5c6d6b3a",
+        "a99ca76f-8b3e-4d3f-90f0-d7f2dd27c243"
     ],
     "tutorial": ""
 }
